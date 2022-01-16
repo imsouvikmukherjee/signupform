@@ -15,7 +15,7 @@
               <div class="col-sm-4"></div>
               <div class="col-sm-4">
                   <h3 class="text-center text-info mt-5">Signup Here</h3>
-                  <form action="">
+                  <form action="" class="shadow p-5">
                       <div class="form-group">
                           <label for="fullname" class="form-label">Fullname</label>
                           <input type="text" placeholder="Fullname" class="form-control" required>
@@ -32,10 +32,12 @@
                   </form>
               </div>
               <div class="col-sm-4">
+
                   <h5 class="text-center text-danger mt-5">You can registare here.
                     
                   </h5>
                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim, blanditiis?</p>
+
               </div>
           </div>
       </div>
