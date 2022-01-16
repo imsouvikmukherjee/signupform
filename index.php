@@ -31,7 +31,9 @@
                             <button type="submit" class="btn btn-danger px-4">Signup</button>
                   </form>
               </div>
-              <div class="col-sm-4"></div>
+              <div class="col-sm-4">
+                  <h5 class="text-center text-danger mt-5">You can registare here.</h5>
+              </div>
           </div>
       </div>
     <!-- Optional JavaScript -->
