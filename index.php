@@ -16,7 +16,9 @@
               <div class="col-sm-4">
                   <h3 class="text-center text-info mt-5">Signup Here</h3>
               </div>
-              <div class="col-sm-4"></div>
+              <div class="col-sm-4">
+                  <h5 class="text-center text-danger mt-5">You can registare here.</h5>
+              </div>
           </div>
       </div>
     <!-- Optional JavaScript -->
