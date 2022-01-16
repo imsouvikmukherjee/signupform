@@ -33,8 +33,9 @@
               </div>
               <div class="col-sm-4">
                   <h5 class="text-center text-danger mt-5">You can registare here.
-                      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim, blanditiis?</p>
+                    
                   </h5>
+                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim, blanditiis?</p>
               </div>
           </div>
       </div>
